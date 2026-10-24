@@ -1,2 +1,2 @@
 # fnf-battlecats-mod-team
-come in heh
+## im not tubenyan, i'm tubenyan's friend
