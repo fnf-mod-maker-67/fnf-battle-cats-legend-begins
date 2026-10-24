@@ -1,0 +1,16 @@
+lime/utils/Log.hx (line 37)
+lime/utils/Assets.hx (line 138)
+lime/utils/Assets.hx (line 244)
+openfl/utils/Assets.hx (line 312)
+states/CharacterSelectState.hx (line 54)
+states/CharacterSelectState.hx (line 35)
+flixel/FlxGame.hx (line 639)
+flixel/FlxGame.hx (line 726)
+flixel/FlxGame.hx (line 679)
+flixel/FlxGame.hx (line 552)
+openfl/events/EventDispatcher.hx (line 426)
+openfl/display/DisplayObject.hx (line 1398)
+
+Uncaught Error: [lime.utils.Assets] ERROR: There is no TEXT asset with an ID of "assets/shared/data/characterSelect.json"
+
+> Crash Handler written by: sqirra-rng

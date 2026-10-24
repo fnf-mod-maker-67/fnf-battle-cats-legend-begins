@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, -70],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -70],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SingLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -150],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SingDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 40],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SingUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -80],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SingRight",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/pig",
+	"position": [-100, 370],
+	"healthicon": "pig",
+	"flip_x": false,
+	"healthbar_colors": [255, 87, 34],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

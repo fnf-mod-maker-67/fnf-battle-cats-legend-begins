@@ -1,0 +1,3 @@
+[2026-08-12 01:55:28] [ERROR] battleCatsLegendBegins.exe 동기화 실패 
+[2026-08-12 01:55:38] [ERROR] battleCatsLegendBegins.exe 동기화 실패 
+error: unable to unlink old 'battleCatsLegendBegins.exe': Invalid argument

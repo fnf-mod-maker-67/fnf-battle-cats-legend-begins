@@ -1,0 +1,10 @@
+states/PlayState.hx (line 1913)
+states/PlayState.hx (line 3145)
+states/PlayState.hx (line 2779)
+states/PlayState.hx (line 2740)
+openfl/events/EventDispatcher.hx (line 426)
+openfl/display/DisplayObject.hx (line 1398)
+
+Uncaught Error: Null Object Reference
+
+> Crash Handler written by: sqirra-rng

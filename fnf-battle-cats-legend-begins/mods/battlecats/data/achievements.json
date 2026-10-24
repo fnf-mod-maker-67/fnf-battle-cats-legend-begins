@@ -1,0 +1,82 @@
+[
+	{
+		"save": "ordinary", 
+		"name": "Tutorial",
+		"description": "\nBeat tutorial!"
+	},
+	{
+		"save": "nyan-easy", 
+		"name": "Nyan;;",
+		"description": "\nClear Chapter 1 Nyan"
+	},
+	{
+		"save": "double-attack-easy", 
+		"name": "Looks Like It Could Eat Me Any Second",
+		"description": "\nBattle and win against the bizarre duo of a crocodile and a squirrel"
+	},
+	{
+		"save": "boss-easy", 
+		"name": "There's No Bear at Home",
+		"description": "\nDefeat the bear and make bear soup!"
+	},
+	{
+		"save": "moon-easy", 
+		"name": "The Final Boss Is a Joke",
+		"description": "\nMake the big-headed guy buckle under his own weight"
+	},
+	{
+		"save": "nyan",
+		"name": "Nyan!!",
+		"description": "\nDefeat Cat"
+	},
+	{
+		"save": "fool-duo", 
+		"name": "Idiot Duo",
+		"description": "\nWatch snake and those guys fight each other to the death"
+	},
+	{
+		"save": "hippo", 
+		"name": "A Boss, Really?",
+		"description": "\nWatch Ms. Hippo roar all by herself"
+	},
+	{
+		"save": "nyandam", 
+		"name": "Chapter 2 Cleared!",
+		"description": "\nDefeat Nyandam!!!"
+	},
+	{
+		"save": "woof", 
+		"name": "Woof!!",
+		"description": "\nDefeat doge"
+	},
+	{
+		"save": "fool-duo2", 
+		"name": "Ooga Booga",
+		"description": "\nDefeat the gorilla and the sheep"
+	},
+	{
+		"save": "peng", 
+		"name": "Peng~",
+		"description": "\nSave the two homeless penguins.\nDonation hotline: 1588-1972"
+	},
+	{
+		"save": "bunbun", 
+		"name": "You are so Easy, World Chapter~!",
+		"description": "\nDefeat Bunbun!!!!"
+	},
+	{
+		"save": "future1", 
+		"name": "Red and Blue",
+		"description": "\nRap battle and win against the Eggheads"
+	},
+	{
+		"save": "future2", 
+		"name": "Help, I'm sinking!",
+		"description": "\nBe sunk, and win!"
+	},
+	{
+		"save": "future-moon", 
+		"name": "'It's not hard, you are just bad'",
+		"description": "\n Beat crazy alien monsters!!"
+	}
+]

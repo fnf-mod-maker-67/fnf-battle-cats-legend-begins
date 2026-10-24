@@ -1,0 +1,51 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [20, -70],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SingLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [-20, -120],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SingDown"
+		},
+		{
+			"loop": false,
+			"offsets": [-160, -20],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SingUp"
+		},
+		{
+			"loop": false,
+			"offsets": [-280, -50],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SingRight"
+		},
+		{
+			"offsets": [-110, -170],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/daram",
+	"position": [-200, 400],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [255, 170, 50],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

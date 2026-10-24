@@ -1,0 +1,2 @@
+[2026-09-19 21:26:13] [ERROR] git fetch 실패 
+fatal: unable to access 'https://github.com/Tubenyan-Official-YT/fnf-battle-cats-legend-begins/': Failed to connect to github.com port 443 after 21191 ms: Couldn't connect to server

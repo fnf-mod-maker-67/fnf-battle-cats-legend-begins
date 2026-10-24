@@ -1,0 +1,92 @@
+[openfl.display.Shader] ERROR: Error compiling fragment shader
+WARNING: 0:1: '' :  #version directive missing
+
+
+#ifdef GL_ES
+#ifdef GL_FRAGMENT_PRECISION_HIGH
+precision highp float;
+#else
+precision mediump float;
+#endif
+#endif
+
+varying float openfl_Alphav;
+		varying vec4 openfl_ColorMultiplierv;
+		varying vec4 openfl_ColorOffsetv;
+		varying vec2 openfl_TextureCoordv;
+
+		uniform bool openfl_HasColorTransform;
+		uniform vec2 openfl_TextureSize;
+		uniform sampler2D bitmap;
+
+		uniform bool hasTransform;
+		uniform bool hasColorTransform;
+
+		vec4 flixel_texture2D(sampler2D bitmap, vec2 coord)
+		{
+			vec4 color = texture2D(bitmap, coord);
+
+			if (!hasTransform)
+			{
+				return color;
+			}
+
+			if (color.a == 0.0)
+			{
+				return vec4(0.0, 0.0, 0.0, 0.0);
+			}
+
+			if (!hasColorTransform)
+			{
+				return color * openfl_Alphav;
+			}
+
+			color = vec4(color.rgb / color.a, color.a);
+
+			mat4 colorMultiplier = mat4(0);
+			colorMultiplier[0][0] = openfl_ColorMultiplierv.x;
+			colorMultiplier[1][1] = openfl_ColorMultiplierv.y;
+			colorMultiplier[2][2] = openfl_ColorMultiplierv.z;
+			colorMultiplier[3][3] = openfl_ColorMultiplierv.w;
+
+			color = clamp(openfl_ColorOffsetv + (color * colorMultiplier), 0.0, 1.0);
+
+			if (color.a > 0.0)
+			{
+				return vec4(color.rgb * color.a * openfl_Alphav, color.a * openfl_Alphav);
+			}
+
+			return vec4(0.0, 0.0, 0.0, 0.0);
+		}
+uniform float iTime;
+uniform float uIntensity;
+
+float rand(vec2 co) {
+    return fract(sin(dot(co.xy, vec2(12.9898, 78.233))) * 43758.5453);
+}
+
+void main() {
+    vec2 uv = openfl_TextureCoordv;
+    
+    float glitchTime = floor(iTime * 20.0);
+    float noise = rand(vec2(floor(uv.y * 35.0), glitchTime));
+    
+    // 라인 즈레 (범위 0.0 ~ 1.0 클램핑)
+    if (noise < 0.25 * uIntensity) {
+        float offset = (rand(vec2(glitchTime, uv.y)) - 0.5) * 0.04 * uIntensity;
+        uv.x = clamp(uv.x + offset, 0.0, 1.0);
+    }
+
+    vec4 col = flixel_texture2D(bitmap, uv);
+
+    // RGB Split (범위 0.0 ~ 1.0 클램핑)
+    if (noise < 0.15 * uIntensity) {
+        float split = 0.01 * uIntensity;
+        vec2 uvR = vec2(clamp(uv.x + split, 0.0, 1.0), uv.y);
+        vec2 uvB = vec2(clamp(uv.x - split, 0.0, 1.0), uv.y);
+        col.r = flixel_texture2D(bitmap, uvR).r;
+        col.b = flixel_texture2D(bitmap, uvB).b;
+    }
+
+    gl_FragColor = col;
+}

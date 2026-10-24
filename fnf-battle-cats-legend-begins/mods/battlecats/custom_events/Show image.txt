@@ -1,0 +1,2 @@
+Value1: image to show
+Value2:show or hide

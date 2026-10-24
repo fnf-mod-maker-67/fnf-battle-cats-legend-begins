@@ -1,0 +1,82 @@
+[
+	{
+		"save": "ordinary", 
+		"name": "튜토리얼",
+		"description": "\n튜토리얼 깨기!",
+	},
+	{
+		"save": "nyan-easy", 
+		"name": "냥ㅠㅠ",
+		"description": "\n1장 냥코 깨기",
+	},
+	{
+		"save": "double-attack-easy", 
+		"name": "금방이라도 잡아먹을 것 같은",
+		"description": "\n악어랑 다람쥐라는 아주 괴상한 조합이랑 떠서 이기기",
+	},
+	{
+		"save": "boss-easy", 
+		"name": "곰 한 마리가 집에는 없어",
+		"description": "\n곰을 이기고 곰국 끓여먹기!",
+	},
+	{
+		"save": "moon-easy", 
+		"name": "최종보스 꼬라지",
+		"description": "\n대갈이군이 자신의 무게를 못 견디게 만들기",
+	},
+	{
+		"save": "nyan",
+		"name": "냥!!",
+		"description": "\n냥코를 이기기"
+	},
+	{
+		"save": "fool-duo", 
+		"name": "멍청이 듀오",
+		"description": "\n낼름이와 놈놈놈이 지들끼리 싸우다 죽는 꼴 보기"
+	},
+	{
+		"save": "hippo", 
+		"name": "이깟 주제에 보스?",
+		"description": "\n하마양이 혼자 포효하는 것을 지켜보기",
+	},
+	{
+		"save": "nyandam", 
+		"name": "세계편 2장 클리어!",
+		"description": "\n야옹마 격파하기!!!",
+	},
+	{
+		"save": "woof", 
+		"name": "멍!!",
+		"description": "\n멍뭉이를 이기기",
+	},
+	{
+		"save": "fool-duo2", 
+		"name": "우가우가",
+		"description": "\n고릴라와 양 이기기",
+	},
+	{
+		"save": "peng", 
+		"name": "펭하~",
+		"description": "\n두 마리의 집을 잃은 펭귄을 구해주세요.\n후원번호 1588-1972",
+	},
+	{
+		"save": "bunbun", 
+		"name": "세계편 이지하죠~!",
+		"description": "\n맴매 격파하기!!!!",
+	},
+	{
+		"save": "future1", 
+		"name": "빨갱이 파랭이",
+		"description": "\n와계인들이랑 랩해서 이기기",
+	},
+	{
+		"save": "future2", 
+		"name": "나 물에 빠졌어 도와줘ㅓㅓ!",
+		"description": "\n물에 빠지고, 이기세요!"
+	},
+	{
+		"save": "future-moon", 
+		"name": "'노래가 어려운 게 아니라 그냥 니가 못하는 거야'",
+		"description": "\n 미친 외계인 괴물들을 이기기"
+	}
+]

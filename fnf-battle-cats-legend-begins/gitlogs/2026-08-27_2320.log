@@ -1,0 +1,2 @@
+[2026-08-27 23:20:42] [ERROR] git fetch 실패 
+git: 'remote-https' is not a git command. See 'git --help'.

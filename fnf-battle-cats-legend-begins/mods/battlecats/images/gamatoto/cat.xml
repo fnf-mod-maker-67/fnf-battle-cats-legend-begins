@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cat.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle00000000" x="0" y="0" width="175" height="137" frameX="-13" frameY="2" frameWidth="200" frameHeight="133"/>
+	<SubTexture name="idle00010000" x="0" y="0" width="175" height="137" frameX="-13" frameY="2" frameWidth="200" frameHeight="133"/>
+	<SubTexture name="idle00020000" x="175" y="0" width="175" height="137" frameX="-13" frameY="2" frameWidth="200" frameHeight="133"/>
+	<SubTexture name="idle00030000" x="175" y="0" width="175" height="137" frameX="-13" frameY="2" frameWidth="200" frameHeight="133"/>
+	<SubTexture name="idle00040000" x="0" y="137" width="175" height="136" frameX="-13" frameY="1" frameWidth="200" frameHeight="133"/>
+	<SubTexture name="idle00050000" x="0" y="137" width="175" height="136" frameX="-13" frameY="1" frameWidth="200" frameHeight="133"/>
+	<SubTexture name="idle00060000" x="175" y="0" width="175" height="137" frameX="-13" frameY="2" frameWidth="200" frameHeight="133"/>
+	<SubTexture name="idle00070000" x="175" y="0" width="175" height="137" frameX="-13" frameY="2" frameWidth="200" frameHeight="133"/>
+	<SubTexture name="idle00080000" x="0" y="0" width="175" height="137" frameX="-13" frameY="2" frameWidth="200" frameHeight="133"/>
+	<SubTexture name="idle00090000" x="0" y="0" width="175" height="137" frameX="-13" frameY="2" frameWidth="200" frameHeight="133"/>
+</TextureAtlas>

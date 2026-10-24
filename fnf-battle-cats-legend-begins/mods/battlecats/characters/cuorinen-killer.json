@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [-250, 20],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SingLeft"
+		},
+		{
+			"offsets": [270, 20],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SingRight"
+		},
+		{
+			"offsets": [-20, 60],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SingUp"
+		},
+		{
+			"offsets": [-90, 22],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SingDown"
+		},
+		{
+			"loop": false,
+			"offsets": [0, -60],
+			"anim": "attack",
+			"fps": 8,
+			"name": "attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [-50, 120],
+			"loop": false,
+			"fps": 8,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "DanceRight"
+		},
+		{
+			"offsets": [-270, 110],
+			"loop": false,
+			"fps": 8,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "DanceLeft"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/cuorinen",
+	"position": [-1000, -600],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [161, 161, 161],
+	"camera_position": [0, 0],
+	"sing_duration": 8,
+	"scale": 2,
+	"_editor_isPlayer": true
+}

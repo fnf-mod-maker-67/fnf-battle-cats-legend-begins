@@ -1,0 +1,432 @@
+{
+	"camera_boyfriend": [
+		0,
+		-400
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "gf",
+		"dad": "dad"
+	},
+	"preload": {},
+	"girlfriend": [
+		395,
+		475
+	],
+	"stageUI": "",
+	"boyfriend": [
+		850,
+		400
+	],
+	"objects": [
+		{
+			"x": -1688,
+			"y": -1112,
+			"scale": [
+				2.5,
+				2.5
+			],
+			"image": "future-sea/background",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "background",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -53,
+			"y": -682,
+			"scale": [
+				2,
+				2
+			],
+			"image": "characters/bunbun",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "bunbun",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": false,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 12,
+					"name": "idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 2209,
+			"y": -313,
+			"scale": [
+				0,
+				0
+			],
+			"image": "future-sea/ship1",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 30,
+			"name": "ship1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 686,
+			"y": -544,
+			"scale": [
+				0,
+				0
+			],
+			"image": "future-sea/top1",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 10,
+			"name": "top1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1354,
+			"y": -704,
+			"scale": [
+				2,
+				3
+			],
+			"image": "future-sea/top1",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 10,
+			"name": "top2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1601,
+			"y": -393,
+			"scale": [
+				3,
+				3
+			],
+			"image": "future-sea/ship1",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 40,
+			"name": "ship2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -842,
+			"y": -680,
+			"scale": [
+				2.5,
+				5
+			],
+			"image": "future-sea/rock2",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 10,
+			"name": "rock1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 1158,
+			"y": -720,
+			"scale": [
+				2.5,
+				5
+			],
+			"image": "future-sea/rock1",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "rock2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 233,
+			"y": -127,
+			"scale": [
+				3,
+				3
+			],
+			"image": "future-sea/car1",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "car",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -772,
+			"y": 221,
+			"scale": [
+				1.5,
+				1.5
+			],
+			"image": "characters/bear",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "bear",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": false,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 9,
+					"name": "idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -1723,
+			"y": 141,
+			"scale": [
+				4.8,
+				4.8
+			],
+			"image": "future-sea/what",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "what",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"x": -916,
+			"y": 621,
+			"scale": [
+				2,
+				2
+			],
+			"image": "characters/beach_leopard",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "leopard",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": false,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 8,
+					"name": "idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 1938,
+			"y": 820,
+			"scale": [
+				2,
+				2
+			],
+			"image": "characters/daram",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "daram",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": false,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 6,
+					"name": "idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": 1409,
+			"y": 547,
+			"scale": [
+				3,
+				3
+			],
+			"image": "future-sea/tank",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 20,
+			"name": "tank",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": false,
+					"offsets": [
+						0,
+						160
+					],
+					"anim": "idle",
+					"fps": 12,
+					"name": "idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -2240,
+			"y": -1396,
+			"scale": [
+				6000,
+				4000
+			],
+			"filters": 3,
+			"color": "0093F3",
+			"angle": 0,
+			"name": "sprite1",
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0.3,
+			"type": "square"
+		}
+	],
+	"camera_girlfriend": [
+		50,
+		-250
+	],
+	"defaultZoom": 0.4,
+	"camera_speed": 0.5,
+	"directory": "",
+	"opponent": [
+		20,
+		380
+	],
+	"camera_opponent": [
+		0,
+		-250
+	],
+	"hide_girlfriend": false
+}

@@ -1,0 +1,3 @@
+[2026-09-21 22:43:37] [ERROR] git fetch 실패 
+remote: Your account is suspended. Please visit https://support.github.com for more information.
+fatal: unable to access 'https://github.com/Tubenyan-Official-YT/fnf-battle-cats-legend-begins/': The requested URL returned error: 403

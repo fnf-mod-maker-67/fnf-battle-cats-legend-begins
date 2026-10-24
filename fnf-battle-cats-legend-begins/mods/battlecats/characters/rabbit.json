@@ -1,0 +1,50 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"name": "idle"
+		},
+		{
+			"offsets": [60, -20],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"name": "SingLeft"
+		},
+		{
+			"offsets": [0, -100],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"name": "SingDown"
+		},
+		{
+			"offsets": [0, 80],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"name": "SingUp"
+		},
+		{
+			"offsets": [0, -30],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"name": "SingRight"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/rabbit",
+	"position": [0, 450],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [200, 200, 255],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

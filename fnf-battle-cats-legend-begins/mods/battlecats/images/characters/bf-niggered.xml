@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-niggered.png">
+	<!-- Created uSing_ the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="hey0000" x="0" y="0" width="577" height="602" frameX="2" frameY="2" frameWidth="573" frameHeight="598"/>
+	<SubTexture name="hey0001" x="577" y="0" width="577" height="602" frameX="2" frameY="2" frameWidth="573" frameHeight="598"/>
+	<SubTexture name="hey0002" x="1154" y="0" width="568" height="602" frameX="2" frameY="2" frameWidth="564" frameHeight="598"/>
+	<SubTexture name="Sing_Up0000" x="3157" y="2422" width="437" height="608" frameX="2" frameY="2" frameWidth="433" frameHeight="604"/>
+	<SubTexture name="Sing_Up0001" x="3157" y="1799" width="429" height="623" frameX="2" frameY="2" frameWidth="425" frameHeight="619"/>
+	<SubTexture name="Sing_Down0000" x="2323" y="2464" width="498" height="493" frameX="2" frameY="2" frameWidth="494" frameHeight="489"/>
+	<SubTexture name="Sing_Left0000" x="3157" y="601" width="451" height="599" frameX="2" frameY="2" frameWidth="447" frameHeight="595"/>
+	<SubTexture name="Sing_Left0001" x="454" y="2464" width="459" height="600" frameX="2" frameY="2" frameWidth="455" frameHeight="596"/>
+	<SubTexture name="Sing_Left0002" x="2680" y="0" width="477" height="599" frameX="2" frameY="2" frameWidth="473" frameHeight="595"/>
+	<SubTexture name="Sing_Right0000" x="2680" y="599" width="471" height="601" frameX="2" frameY="2" frameWidth="467" frameHeight="597"/>
+	<SubTexture name="Sing_Right0001" x="487" y="1853" width="484" height="611" frameX="2" frameY="2" frameWidth="480" frameHeight="607"/>
+	<SubTexture name="Sing_Right0002" x="0" y="1853" width="487" height="611" frameX="2" frameY="2" frameWidth="483" frameHeight="607"/>
+	<SubTexture name="Sing_Up0002" x="0" y="2464" width="454" height="610" frameX="2" frameY="2" frameWidth="450" frameHeight="606"/>
+	<SubTexture name="Sing_Up0003" x="913" y="2464" width="462" height="596" frameX="2" frameY="2" frameWidth="458" frameHeight="592"/>
+	<SubTexture name="_idle0003" x="0" y="602" width="538" height="602" frameX="2" frameY="2" frameWidth="534" frameHeight="598"/>
+	<SubTexture name="_idle0002" x="1458" y="1853" width="465" height="594" frameX="-50" frameY="0" frameWidth="461" frameHeight="590"/>
+	<SubTexture name="_idle0001" x="1092" y="602" width="494" height="583" frameX="-35" frameY="-5" frameWidth="490" frameHeight="579"/>
+	<SubTexture name="_idle0000" x="538" y="602" width="554" height="583" frameX="2" frameY="-10" frameWidth="550" frameHeight="579"/>
+	<SubTexture name="Sing_Down0001" x="1484" y="1204" width="506" height="555" frameX="2" frameY="2" frameWidth="502" frameHeight="551"/>
+	<SubTexture name="Sing_Down0002" x="1722" y="629" width="488" height="529" frameX="2" frameY="2" frameWidth="484" frameHeight="525"/>
+	<SubTexture name="Sing_Down0003" x="1834" y="2464" width="489" height="510" frameX="2" frameY="2" frameWidth="485" frameHeight="506"/>
+	<SubTexture name="Sing_Left0003" x="3611" y="0" width="441" height="599" frameX="2" frameY="2" frameWidth="437" frameHeight="595"/>
+	<SubTexture name="Sing_Right0003" x="3157" y="1200" width="449" height="599" frameX="2" frameY="2" frameWidth="445" frameHeight="595"/>
+	<SubTexture name="SingRightmiss0000" x="2680" y="1812" width="455" height="614" frameX="2" frameY="2" frameWidth="451" frameHeight="610"/>
+	<SubTexture name="SingRightmiss0002" x="1923" y="1853" width="461" height="586" frameX="2" frameY="2" frameWidth="457" frameHeight="582"/>
+	<SubTexture name="SingUpmiss0001" x="2680" y="1200" width="460" height="612" frameX="2" frameY="2" frameWidth="456" frameHeight="608"/>
+	<SubTexture name="SingUpmiss0002" x="2210" y="0" width="470" height="638" frameX="2" frameY="2" frameWidth="466" frameHeight="634"/>
+	<SubTexture name="SingDownmiss0000" x="976" y="1204" width="508" height="592" frameX="2" frameY="2" frameWidth="504" frameHeight="588"/>
+	<SubTexture name="SingDownmiss0001" x="469" y="1204" width="507" height="597" frameX="2" frameY="2" frameWidth="503" frameHeight="593"/>
+	<SubTexture name="SingLeftmiss0001" x="0" y="1204" width="469" height="649" frameX="2" frameY="2" frameWidth="465" frameHeight="645"/>
+	<SubTexture name="SingLeftmiss0002" x="1722" y="0" width="488" height="629" frameX="2" frameY="2" frameWidth="484" frameHeight="625"/>
+	<SubTexture name="SingLeftmiss0003" x="971" y="1853" width="487" height="597" frameX="2" frameY="2" frameWidth="483" frameHeight="593"/>
+	<SubTexture name="SingRightmiss0001" x="1375" y="2464" width="459" height="586" frameX="2" frameY="2" frameWidth="455" frameHeight="582"/>
+	<SubTexture name="SingUpmiss0000" x="3157" y="0" width="454" height="601" frameX="2" frameY="2" frameWidth="450" frameHeight="597"/>
+	<SubTexture name="SingLeftmiss0000" x="2210" y="638" width="451" height="649" frameX="2" frameY="2" frameWidth="447" frameHeight="645"/>
+</TextureAtlas>

@@ -1,0 +1,54 @@
+{
+	"storyName": "전설의 시작 - 세계편",
+	"difficulties": "chapter1, chapter2, chapter3",
+	"hideFreeplay": false,
+	"weekBackground": "world",
+	"weekBefore": "tutorial1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"nyan",
+			"nyanko",
+			[
+				255,
+				233,
+				140
+			]
+		],
+		[
+			"double attack",
+			"double",
+			[
+				0,
+				180,
+				80
+			]
+		],
+		[
+			"boss",
+			"hippo",
+			[
+				255,
+				135,
+				20
+			]
+		],
+		[
+			"identity crisis",
+			"nyandam",
+			[
+				20,
+				0,
+				93
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "world"
+}

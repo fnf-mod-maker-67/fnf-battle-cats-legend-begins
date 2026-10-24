@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [20, 0],
+			"anim": "scared",
+			"fps": 15,
+			"name": "scared",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-100, 60],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-190, 130],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SingLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-130, 90],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SingRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-250, -90],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SingDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-230, 70],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SingUp",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bald-head",
+	"position": [-300, -100],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [161, 161, 161],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

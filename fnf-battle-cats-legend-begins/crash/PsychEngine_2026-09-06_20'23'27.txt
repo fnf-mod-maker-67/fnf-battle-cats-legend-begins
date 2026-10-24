@@ -1,0 +1,15 @@
+objects/EnemyListCharacter.hx (line 17)
+objects/EnemyListGroup.hx (line 8)
+objects/EnemyList.hx (line 9)
+states/FreeplayState.hx (line 697)
+states/FreeplayState.hx (line 683)
+flixel/FlxState.hx (line 239)
+flixel/FlxGame.hx (line 749)
+flixel/FlxGame.hx (line 679)
+flixel/FlxGame.hx (line 552)
+openfl/events/EventDispatcher.hx (line 426)
+openfl/display/DisplayObject.hx (line 1398)
+
+Uncaught Error: Null Object Reference
+
+> Crash Handler written by: sqirra-rng

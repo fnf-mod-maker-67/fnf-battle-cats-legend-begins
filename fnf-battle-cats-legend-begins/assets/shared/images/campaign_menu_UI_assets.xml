@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="campaign_menu_UI_assets.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="arrow right00000000" x="59" y="0" width="47" height="80" frameX="0" frameY="-3" frameWidth="48" frameHeight="85"/>
+	<SubTexture name="arrow push right00000000" x="106" y="0" width="42" height="71" frameX="-3" frameY="-7" frameWidth="48" frameHeight="85"/>
+	<SubTexture name="arrow push left00000000" x="59" y="80" width="42" height="71" frameX="-3" frameY="-7" frameWidth="48" frameHeight="85"/>
+	<SubTexture name="arrow left00000000" x="0" y="76" width="49" height="84" frameX="2" frameY="-1" frameWidth="48" frameHeight="85"/>
+	<SubTexture name="lock00000000" x="0" y="0" width="59" height="76" frameX="0" frameY="-7" frameWidth="60" frameHeight="85"/>
+</TextureAtlas>

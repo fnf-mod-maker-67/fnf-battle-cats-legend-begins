@@ -1,0 +1,2 @@
+[2026-08-30 13:46:00] [ERROR] git fetch 실패 
+fatal: unable to access 'https://github.com/Tubenyan-Official-YT/fnf-battle-cats-legend-begins/': getaddrinfo() thread failed to start

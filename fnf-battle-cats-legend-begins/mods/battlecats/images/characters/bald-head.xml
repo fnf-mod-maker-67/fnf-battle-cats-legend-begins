@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bald-head.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="SingUp0000대머리0000" x="3090" y="2125" width="544" height="722" frameX="2" frameY="2" frameWidth="540" frameHeight="718"/>
+	<SubTexture name="SingUp0001대머리0000" x="3090" y="1398" width="543" height="727" frameX="2" frameY="2" frameWidth="539" frameHeight="723"/>
+	<SubTexture name="SingUp0002대머리0000" x="3712" y="0" width="503" height="726" frameX="2" frameY="2" frameWidth="499" frameHeight="722"/>
+	<SubTexture name="SingUp0003대머리0000" x="3712" y="1463" width="475" height="733" frameX="2" frameY="2" frameWidth="471" frameHeight="729"/>
+	<SubTexture name="SingDown0000대머리0000" x="1288" y="896" width="578" height="638" frameX="2" frameY="2" frameWidth="574" frameHeight="641"/>
+	<SubTexture name="SingLeft0000대머리0000" x="0" y="896" width="618" height="792" frameX="2" frameY="2" frameWidth="614" frameHeight="788"/>
+	<SubTexture name="SingLeft0001대머리0000" x="1262" y="0" width="606" height="822" frameX="2" frameY="2" frameWidth="602" frameHeight="818"/>
+	<SubTexture name="SingLeft0002대머리0000" x="638" y="0" width="624" height="831" frameX="2" frameY="2" frameWidth="620" frameHeight="827"/>
+	<SubTexture name="SingLeft0003대머리0000" x="0" y="0" width="638" height="896" frameX="2" frameY="2" frameWidth="634" frameHeight="892"/>
+	<SubTexture name="SingRight0001대머리0000" x="3712" y="2196" width="459" height="752" frameX="2" frameY="2" frameWidth="455" frameHeight="748"/>
+	<SubTexture name="SingRight0002대머리0000" x="1868" y="749" width="493" height="750" frameX="2" frameY="2" frameWidth="489" frameHeight="746"/>
+	<SubTexture name="SingRight0003대머리0000" x="3090" y="661" width="549" height="737" frameX="2" frameY="2" frameWidth="545" frameHeight="733"/>
+	<SubTexture name="idle0002대머리0000" x="0" y="1688" width="605" height="725" frameX="2" frameY="2" frameWidth="601" frameHeight="721"/>
+	<SubTexture name="scared0001대머리0000" x="2469" y="0" width="621" height="680" frameX="2" frameY="2" frameWidth="617" frameHeight="676"/>
+	<SubTexture name="scared0002대머리0000" x="2469" y="1405" width="613" height="680" frameX="2" frameY="2" frameWidth="609" frameHeight="676"/>
+	<SubTexture name="SingDown0001대머리0000" x="3090" y="0" width="622" height="661" frameX="2" frameY="2" frameWidth="618" frameHeight="677"/>
+	<SubTexture name="SingDown0002대머리0000" x="605" y="1688" width="632" height="691" frameX="2" frameY="2" frameWidth="628" frameHeight="701"/>
+	<SubTexture name="SingDown0003대머리0000" x="0" y="2413" width="642" height="657" frameX="2" frameY="2" frameWidth="638" frameHeight="653"/>
+	<SubTexture name="SingRight0000대머리0000" x="3712" y="726" width="490" height="737" frameX="2" frameY="2" frameWidth="486" frameHeight="733"/>
+	<SubTexture name="idle0003대머리0000" x="2469" y="680" width="576" height="725" frameX="2" frameY="2" frameWidth="572" frameHeight="721"/>
+	<SubTexture name="scared0000대머리0000" x="1237" y="1688" width="635" height="680" frameX="2" frameY="2" frameWidth="631" frameHeight="676"/>
+	<SubTexture name="idle0000대머리0000" x="1868" y="0" width="601" height="749" frameX="2" frameY="2" frameWidth="597" frameHeight="745"/>
+	<SubTexture name="idle0001대머리0000" x="618" y="896" width="670" height="708" frameX="2" frameY="2" frameWidth="666" frameHeight="704"/>
+</TextureAtlas>

@@ -1,0 +1,4 @@
+spawnChar
+
+value 1: tag
+value 2: x,y

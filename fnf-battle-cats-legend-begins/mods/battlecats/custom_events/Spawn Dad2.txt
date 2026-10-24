@@ -1,0 +1,3 @@
+Spawns a second opponent character
+value1 = Character name (ex: gorilla)
+value2 = X,Y position (ex: 800,100)

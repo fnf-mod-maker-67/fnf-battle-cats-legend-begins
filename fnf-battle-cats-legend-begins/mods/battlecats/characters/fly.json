@@ -1,0 +1,64 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"name": "idle"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"name": "danceLeft"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"name": "danceRight"
+		},
+		{
+			"offsets": [45, -5],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"name": "SingLeft"
+		},
+		{
+			"offsets": [-10, -70],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"name": "SingDown"
+		},
+		{
+			"offsets": [-20, 170],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"name": "SingUp"
+		},
+		{
+			"offsets": [-95, 10],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"name": "SingRight"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/fly",
+	"position": [0, 0],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [100, 220, 100],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

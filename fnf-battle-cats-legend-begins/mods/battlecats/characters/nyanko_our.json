@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-40, -469],
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [-10, -400],
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SingLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [-30, -530],
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SingDown"
+		},
+		{
+			"loop": false,
+			"offsets": [-60, -310],
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SingUp"
+		},
+		{
+			"loop": false,
+			"offsets": [-150, -450],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SingRight"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/nyanko_back",
+	"position": [-300, 180],
+	"healthicon": "nyanko",
+	"flip_x": false,
+	"healthbar_colors": [161, 161, 161],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 5,
+	"_editor_isPlayer": false
+}

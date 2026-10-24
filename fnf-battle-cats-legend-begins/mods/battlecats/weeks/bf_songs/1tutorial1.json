@@ -1,0 +1,26 @@
+{
+	"storyName": "tutorial remixed",
+	"difficulties": "tutorial",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial1",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"newtorial",
+			"gf",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"weekName": "just tutorial"
+}

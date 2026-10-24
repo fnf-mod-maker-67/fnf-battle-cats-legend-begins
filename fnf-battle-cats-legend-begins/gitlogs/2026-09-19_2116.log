@@ -1,0 +1,2 @@
+[2026-09-19 21:16:39] [ERROR] git fetch 실패 
+fatal: unable to access 'https://github.com/Tubenyan-Official-YT/fnf-battle-cats-legend-begins/': OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 0

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_assets-wave.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://github.io -->
+	
+	<!-- [오른쪽 위 조각] 왼쪽 화살표 (purple) -->
+	<SubTexture name="purple0000" x="194" y="0" width="194" height="144" frameX="50" frameY="-3" frameWidth="240" frameHeight="150"/>
+	
+	<!-- [왼쪽 위 조각] 오른쪽 화살표 (red) -->
+	<SubTexture name="red0000" x="0" y="0" width="194" height="144" frameX="0" frameY="-80" frameWidth="240" frameHeight="150"/>
+	
+	<!-- [오른쪽 아래 조각] 아래쪽 화살표 (blue) -->
+	<SubTexture name="blue0000" x="141" y="144" width="141" height="190" frameX="0" frameY="-50" frameWidth="150" frameHeight="240"/>
+	
+	<!-- [왼쪽 아래 조각] 위쪽 화살표 (green) -->
+	<SubTexture name="green0000" x="0" y="144" width="141" height="190" frameX="-4" frameY="-30" frameWidth="150" frameHeight="240"/>
+</TextureAtlas>

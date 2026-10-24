@@ -1,0 +1,5 @@
+[GlobalOverlay] FlxG.game = [object FlxGame], FlxG.stage = [object Stage]
+[GlobalOverlay] constructor start
+[GlobalOverlay] topGraphic = FlxGraphic
+[GlobalOverlay] downGraphic = FlxGraphic
+[GlobalOverlay] constructor end, visible = true, x=0, y=0, scaleX=1

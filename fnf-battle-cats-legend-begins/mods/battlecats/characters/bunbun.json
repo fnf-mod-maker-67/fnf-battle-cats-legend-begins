@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [-480, -250],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SingLeft"
+		},
+		{
+			"offsets": [-310, -480],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SingDown"
+		},
+		{
+			"offsets": [-260, -260],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SingUp"
+		},
+		{
+			"offsets": [-190, -320],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SingRight"
+		},
+		{
+			"offsets": [-310, -400],
+			"loop": false,
+			"fps": 24,
+			"anim": "tell",
+			"indices": [],
+			"name": "tell"
+		},
+		{
+			"offsets": [-380, -240],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bunbun",
+	"position": [-500, -700],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [150, 150, 150],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

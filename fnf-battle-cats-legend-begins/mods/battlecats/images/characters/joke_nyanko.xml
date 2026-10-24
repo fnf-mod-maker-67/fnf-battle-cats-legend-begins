@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="joke_nyanko.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="I00000000" x="0" y="399" width="205" height="183" frameX="2" frameY="2" frameWidth="201" frameHeight="179"/>
+	<SubTexture name="I00010000" x="211" y="211" width="216" height="183" frameX="2" frameY="2" frameWidth="212" frameHeight="179"/>
+	<SubTexture name="I00020000" x="216" y="0" width="234" height="183" frameX="2" frameY="2" frameWidth="230" frameHeight="179"/>
+	<SubTexture name="I00030000" x="450" y="0" width="203" height="190" frameX="2" frameY="2" frameWidth="199" frameHeight="186"/>
+	<SubTexture name="SD00000000" x="205" y="399" width="204" height="183" frameX="2" frameY="2" frameWidth="200" frameHeight="179"/>
+	<SubTexture name="SL00000000" x="450" y="190" width="167" height="181" frameX="2" frameY="2" frameWidth="163" frameHeight="177"/>
+	<SubTexture name="SL00010000" x="409" y="399" width="157" height="172" frameX="2" frameY="2" frameWidth="153" frameHeight="168"/>
+	<SubTexture name="SD00010000" x="0" y="211" width="211" height="188" frameX="2" frameY="2" frameWidth="207" frameHeight="184"/>
+	<SubTexture name="SR00000000" x="450" y="190" width="167" height="181" frameX="2" frameY="2" frameWidth="163" frameHeight="177"/>
+	<SubTexture name="SR00010000" x="409" y="399" width="157" height="172" frameX="2" frameY="2" frameWidth="153" frameHeight="168"/>
+	<SubTexture name="SU00000000" x="0" y="0" width="216" height="211" frameX="2" frameY="2" frameWidth="212" frameHeight="207"/>
+</TextureAtlas>

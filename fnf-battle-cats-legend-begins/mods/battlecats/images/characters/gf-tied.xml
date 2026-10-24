@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-tied.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="danceRIGHT0001" x="1729" y="0" width="589" height="579" frameX="2" frameY="2" frameWidth="585" frameHeight="575"/>
+	<SubTexture name="danceRIGHT0000" x="0" y="627" width="595" height="576" frameX="2" frameY="2" frameWidth="591" frameHeight="572"/>
+	<SubTexture name="danceLEFT0003" x="1729" y="579" width="578" height="588" frameX="2" frameY="2" frameWidth="574" frameHeight="584"/>
+	<SubTexture name="danceLEFT0002" x="1142" y="0" width="587" height="587" frameX="2" frameY="2" frameWidth="583" frameHeight="583"/>
+	<SubTexture name="danceLEFT0001" x="568" y="0" width="574" height="606" frameX="2" frameY="2" frameWidth="570" frameHeight="602"/>
+	<SubTexture name="danceLEFT0000" x="0" y="0" width="568" height="627" frameX="2" frameY="2" frameWidth="564" frameHeight="623"/>
+	<SubTexture name="danceRIGHT0003" x="2318" y="584" width="577" height="583" frameX="2" frameY="2" frameWidth="573" frameHeight="579"/>
+	<SubTexture name="danceRIGHT0002" x="2318" y="0" width="580" height="584" frameX="2" frameY="2" frameWidth="576" frameHeight="580"/>
+	<SubTexture name="idle0000" x="0" y="1203" width="583" height="582" frameX="2" frameY="2" frameWidth="579" frameHeight="578"/>
+</TextureAtlas>

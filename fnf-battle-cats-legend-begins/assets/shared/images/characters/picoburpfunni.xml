@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="picoburpfunni.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Burp smile0000" x="10" y="10" width="521" height="477"/>
+	<SubTexture name="Burp smile0001" x="10" y="10" width="521" height="477"/>
+	<SubTexture name="Burp smile0002" x="531" y="10" width="521" height="477"/>
+	<SubTexture name="Burp smile0003" x="1052" y="10" width="521" height="477"/>
+	<SubTexture name="Burp smile0004" x="1573" y="10" width="521" height="477"/>
+	<SubTexture name="Burp smile0005" x="2094" y="10" width="521" height="477"/>
+	<SubTexture name="Burp smile0006" x="2615" y="10" width="521" height="477"/>
+	<SubTexture name="Burp smile0007" x="3136" y="10" width="521" height="477"/>
+	<SubTexture name="Burp smile0008" x="1573" y="10" width="521" height="477"/>
+	<SubTexture name="Burp smile0009" x="2094" y="10" width="521" height="477"/>
+	<SubTexture name="Burp smile0010" x="10" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0011" x="531" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0012" x="1052" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0013" x="1052" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0014" x="1052" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0015" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0016" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0017" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0018" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0019" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0020" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0021" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0022" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0023" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0024" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0025" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0026" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0027" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0028" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0029" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0030" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="Burp smile0031" x="1573" y="487" width="521" height="477"/>
+	<SubTexture name="burp small plus talk pico0000" x="2094" y="487" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0001" x="2573" y="487" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0002" x="3052" y="487" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0003" x="3531" y="487" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0004" x="10" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0005" x="489" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0006" x="968" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0007" x="1447" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0008" x="1447" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0009" x="1447" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0010" x="1926" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0011" x="1926" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0012" x="1926" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0013" x="1926" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0014" x="1926" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0015" x="1926" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0016" x="1926" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0017" x="1926" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0018" x="1926" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0019" x="1926" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0020" x="1926" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0021" x="1926" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0022" x="2405" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0023" x="2405" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0024" x="2884" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0025" x="2884" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0026" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0027" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0028" x="10" y="1440" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0029" x="10" y="1440" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0030" x="489" y="1440" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0031" x="2884" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0032" x="2884" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0033" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0034" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0035" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0036" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0037" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0038" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0039" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0040" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0041" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0042" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0043" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0044" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0045" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0046" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0047" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0048" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0049" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp small plus talk pico0050" x="3363" y="964" width="479" height="476"/>
+	<SubTexture name="burp smile long0000" x="968" y="1440" width="480" height="476"/>
+	<SubTexture name="burp smile long0001" x="1448" y="1440" width="480" height="476"/>
+	<SubTexture name="burp smile long0002" x="1928" y="1440" width="480" height="476"/>
+	<SubTexture name="burp smile long0003" x="2408" y="1440" width="480" height="476"/>
+	<SubTexture name="burp smile long0004" x="2888" y="1440" width="480" height="476"/>
+	<SubTexture name="burp smile long0005" x="3368" y="1440" width="480" height="476"/>
+	<SubTexture name="burp smile long0006" x="1928" y="1440" width="480" height="476"/>
+	<SubTexture name="burp smile long0007" x="2408" y="1440" width="480" height="476"/>
+	<SubTexture name="burp smile long0008" x="10" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0009" x="490" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0010" x="970" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0011" x="970" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0012" x="970" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0013" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0014" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0015" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0016" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0017" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0018" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0019" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0020" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0021" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0022" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0023" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0024" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0025" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0026" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0027" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0028" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0029" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0030" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0031" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0032" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0033" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0034" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0035" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0036" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0037" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0038" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0039" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0040" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0041" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0042" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0043" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0044" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0045" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0046" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0047" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0048" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0049" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0050" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0051" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0052" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0053" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0054" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0055" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0056" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0057" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0058" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="burp smile long0059" x="1450" y="1916" width="480" height="476"/>
+	<SubTexture name="shit0000" x="1930" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0001" x="2373" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0002" x="2373" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0003" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0004" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0005" x="3259" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0006" x="10" y="2392" width="443" height="476"/>
+	<SubTexture name="shit0007" x="453" y="2392" width="443" height="476"/>
+	<SubTexture name="shit0008" x="896" y="2392" width="443" height="476"/>
+	<SubTexture name="shit0009" x="3259" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0010" x="10" y="2392" width="443" height="476"/>
+	<SubTexture name="shit0011" x="3259" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0012" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0013" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0014" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0015" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0016" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0017" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0018" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0019" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0020" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0021" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0022" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0023" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0024" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0025" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0026" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0027" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0028" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0029" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0030" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0031" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0032" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0033" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0034" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0035" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0036" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0037" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0038" x="2816" y="1916" width="443" height="476"/>
+	<SubTexture name="shit0039" x="2816" y="1916" width="443" height="476"/>
+</TextureAtlas>

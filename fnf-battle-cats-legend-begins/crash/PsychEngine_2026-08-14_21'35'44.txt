@@ -1,0 +1,14 @@
+C:\hostedtoolcache\windows\haxe\4.3.7\x64\std/haxe/format/JsonParser.hx (line 318)
+C:\hostedtoolcache\windows\haxe\4.3.7\x64\std/haxe/format/JsonParser.hx (line 147)
+C:\hostedtoolcache\windows\haxe\4.3.7\x64\std/haxe/format/JsonParser.hx (line 57)
+states/FreeplayState.hx (line 353)
+flixel/FlxState.hx (line 239)
+flixel/FlxGame.hx (line 749)
+flixel/FlxGame.hx (line 679)
+flixel/FlxGame.hx (line 552)
+openfl/events/EventDispatcher.hx (line 426)
+openfl/display/DisplayObject.hx (line 1398)
+
+Uncaught Error: Invalid char 0 at position 0
+
+> Crash Handler written by: sqirra-rng

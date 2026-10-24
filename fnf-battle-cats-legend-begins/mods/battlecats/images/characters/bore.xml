@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bore.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="SingUp0003bore0000" x="0" y="410" width="441" height="483" frameX="2" frameY="2" frameWidth="437" frameHeight="479"/>
+	<SubTexture name="SingUp0000bore0000" x="1370" y="1271" width="454" height="379" frameX="2" frameY="2" frameWidth="450" frameHeight="375"/>
+	<SubTexture name="SingUp0001bore0000" x="1610" y="0" width="444" height="421" frameX="2" frameY="2" frameWidth="440" frameHeight="417"/>
+	<SubTexture name="SingUp0002bore0000" x="1173" y="0" width="437" height="436" frameX="2" frameY="2" frameWidth="433" frameHeight="432"/>
+	<SubTexture name="idle0000bore0000" x="441" y="410" width="509" height="394" frameX="2" frameY="2" frameWidth="505" frameHeight="390"/>
+	<SubTexture name="SingDown0001bore0000" x="1403" y="1663" width="465" height="341" frameX="2" frameY="2" frameWidth="461" frameHeight="337"/>
+	<SubTexture name="SingLeft0000bore0000" x="501" y="893" width="462" height="370" frameX="2" frameY="2" frameWidth="458" frameHeight="366"/>
+	<SubTexture name="SingLeft0001bore0000" x="912" y="1271" width="458" height="379" frameX="2" frameY="2" frameWidth="454" frameHeight="375"/>
+	<SubTexture name="SingLeft0002bore0000" x="455" y="1271" width="457" height="385" frameX="2" frameY="2" frameWidth="453" frameHeight="381"/>
+	<SubTexture name="SingLeft0003bore0000" x="0" y="1271" width="455" height="392" frameX="2" frameY="2" frameWidth="451" frameHeight="388"/>
+	<SubTexture name="SingRight0003bore0000" x="626" y="0" width="547" height="406" frameX="2" frameY="2" frameWidth="543" frameHeight="402"/>
+	<SubTexture name="die0001bore0000" x="1610" y="421" width="298" height="436" frameX="2" frameY="2" frameWidth="294" frameHeight="432"/>
+	<SubTexture name="die0002bore0000" x="1610" y="857" width="388" height="229" frameX="2" frameY="2" frameWidth="384" frameHeight="225"/>
+	<SubTexture name="die0003bore0000" x="1173" y="436" width="190" height="276" frameX="2" frameY="2" frameWidth="186" frameHeight="272"/>
+	<SubTexture name="die0004bore0000" x="1908" y="421" width="127" height="157" frameX="2" frameY="2" frameWidth="123" frameHeight="153"/>
+	<SubTexture name="idle0003bore0000" x="963" y="893" width="465" height="362" frameX="2" frameY="2" frameWidth="461" frameHeight="358"/>
+	<SubTexture name="idle0002bore0000" x="0" y="1663" width="465" height="362" frameX="2" frameY="2" frameWidth="461" frameHeight="358"/>
+	<SubTexture name="idle0001bore0000" x="0" y="893" width="501" height="378" frameX="2" frameY="2" frameWidth="497" frameHeight="374"/>
+	<SubTexture name="SingDown0000bore0000" x="465" y="1663" width="465" height="349" frameX="2" frameY="2" frameWidth="461" frameHeight="345"/>
+	<SubTexture name="SingDown0002bore0000" x="930" y="1663" width="473" height="341" frameX="2" frameY="2" frameWidth="469" frameHeight="337"/>
+	<SubTexture name="die0000bore0000" x="0" y="0" width="626" height="410" frameX="2" frameY="2" frameWidth="622" frameHeight="406"/>
+</TextureAtlas>

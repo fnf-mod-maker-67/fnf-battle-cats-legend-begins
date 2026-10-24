@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alien-hippo.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="SingDown0000ahippo0000" x="518" y="335" width="348" height="307" frameX="2" frameY="2" frameWidth="344" frameHeight="303"/>
+	<SubTexture name="SingDown0001ahippo0000" x="432" y="656" width="347" height="303" frameX="2" frameY="2" frameWidth="343" frameHeight="299"/>
+	<SubTexture name="SingDown0002ahippo0000" x="1375" y="1046" width="332" height="288" frameX="2" frameY="2" frameWidth="328" frameHeight="284"/>
+	<SubTexture name="SingDown0003ahippo0000" x="1011" y="1337" width="326" height="283" frameX="2" frameY="2" frameWidth="322" frameHeight="279"/>
+	<SubTexture name="SingLeft0001ahippo0000" x="1375" y="699" width="368" height="347" frameX="2" frameY="2" frameWidth="364" frameHeight="343"/>
+	<SubTexture name="SingLeft0002ahippo0000" x="0" y="1337" width="341" height="349" frameX="2" frameY="2" frameWidth="337" frameHeight="345"/>
+	<SubTexture name="SingLeft0003ahippo0000" x="341" y="1337" width="341" height="331" frameX="2" frameY="2" frameWidth="337" frameHeight="327"/>
+	<SubTexture name="SingUp0000ahippo0000" x="974" y="0" width="401" height="362" frameX="2" frameY="2" frameWidth="397" frameHeight="358"/>
+	<SubTexture name="SingUp0001ahippo0000" x="1375" y="0" width="384" height="350" frameX="2" frameY="2" frameWidth="380" frameHeight="346"/>
+	<SubTexture name="SingUp0002ahippo0000" x="1375" y="350" width="375" height="349" frameX="2" frameY="2" frameWidth="371" frameHeight="345"/>
+	<SubTexture name="SingUp0003ahippo0000" x="0" y="986" width="392" height="351" frameX="2" frameY="2" frameWidth="388" frameHeight="347"/>
+	<SubTexture name="SingRight0003ahippo0000" x="0" y="0" width="518" height="325" frameX="2" frameY="2" frameWidth="514" frameHeight="321"/>
+	<SubTexture name="SingLeft0000ahippo0000" x="392" y="986" width="403" height="339" frameX="2" frameY="2" frameWidth="399" frameHeight="335"/>
+	<SubTexture name="SingRight0000ahippo0000" x="0" y="656" width="432" height="330" frameX="2" frameY="2" frameWidth="428" frameHeight="326"/>
+	<SubTexture name="SingRight0001ahippo0000" x="518" y="0" width="456" height="335" frameX="2" frameY="2" frameWidth="452" frameHeight="331"/>
+	<SubTexture name="SingRight0002ahippo0000" x="0" y="325" width="486" height="331" frameX="2" frameY="2" frameWidth="482" frameHeight="327"/>
+	<SubTexture name="idle0000ahippo0000" x="974" y="362" width="318" height="291" frameX="2" frameY="2" frameWidth="314" frameHeight="287"/>
+	<SubTexture name="idle0001ahippo0000" x="779" y="656" width="324" height="296" frameX="2" frameY="2" frameWidth="320" frameHeight="292"/>
+	<SubTexture name="idle0002ahippo0000" x="682" y="1337" width="329" height="313" frameX="2" frameY="2" frameWidth="325" frameHeight="309"/>
+	<SubTexture name="idle0003ahippo0000" x="795" y="986" width="348" height="332" frameX="2" frameY="2" frameWidth="344" frameHeight="328"/>
+</TextureAtlas>

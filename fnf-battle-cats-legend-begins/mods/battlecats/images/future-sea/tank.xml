@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tank.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000t0000" x="0" y="0" width="222" height="228" frameX="2" frameY="2" frameWidth="218" frameHeight="224"/>
+	<SubTexture name="idle0001t0000" x="0" y="0" width="222" height="228" frameX="2" frameY="2" frameWidth="218" frameHeight="224"/>
+	<SubTexture name="idle0002t0000" x="222" y="0" width="222" height="220" frameX="2" frameY="2" frameWidth="218" frameHeight="216"/>
+	<SubTexture name="idle0003t0000" x="0" y="228" width="222" height="211" frameX="2" frameY="2" frameWidth="218" frameHeight="207"/>
+	<SubTexture name="idle0004t0000" x="222" y="0" width="222" height="220" frameX="2" frameY="2" frameWidth="218" frameHeight="216"/>
+	<SubTexture name="idle0005t0000" x="0" y="0" width="222" height="228" frameX="2" frameY="2" frameWidth="218" frameHeight="224"/>
+	<SubTexture name="idle0006t0000" x="0" y="0" width="222" height="228" frameX="2" frameY="2" frameWidth="218" frameHeight="224"/>
+</TextureAtlas>

@@ -1,0 +1,50 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"name": "idle"
+		},
+		{
+			"offsets": [50, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"name": "SingLeft"
+		},
+		{
+			"offsets": [0, -120],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"name": "SingDown"
+		},
+		{
+			"offsets": [0, 60],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"name": "SingUp"
+		},
+		{
+			"offsets": [-180, 30],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"name": "SingRight"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bighead",
+	"position": [0, 200],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [150, 150, 150],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,264 @@
+{
+	"camera_boyfriend": [
+		0,
+		-400
+	],
+	"preload": {},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "dad",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		1170,
+		560
+	],
+	"stageUI": "",
+	"girlfriend": [
+		215,
+		595
+	],
+	"objects": [
+		{
+			"x": -2528,
+			"y": -3032,
+			"scale": [
+				3.5,
+				5
+			],
+			"image": "future-sea/background",
+			"flipX": false,
+			"filters": 3,
+			"color": "009187",
+			"angle": 0,
+			"name": "background",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 2249,
+			"y": -313,
+			"scale": [
+				0,
+				0
+			],
+			"image": "future-sea/ship1",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 30,
+			"name": "ship1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 686,
+			"y": 1116,
+			"scale": [
+				0,
+				0
+			],
+			"image": "future-sea/top1",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 10,
+			"name": "top1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 216,
+			"y": -324,
+			"scale": [
+				2,
+				3
+			],
+			"image": "future-sea/top1",
+			"flipX": false,
+			"filters": 3,
+			"color": "0F9F9F",
+			"angle": 350,
+			"name": "top2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 79,
+			"y": -893,
+			"scale": [
+				3,
+				3
+			],
+			"image": "future-sea/ship1",
+			"flipX": false,
+			"filters": 3,
+			"color": "00F0F0",
+			"angle": 340,
+			"name": "ship2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -842,
+			"y": -680,
+			"scale": [
+				2.5,
+				5
+			],
+			"image": "future-sea/rock2",
+			"flipX": false,
+			"filters": 2,
+			"color": "9995F9",
+			"angle": 10,
+			"name": "rock1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 1158,
+			"y": -720,
+			"scale": [
+				2.5,
+				5
+			],
+			"image": "future-sea/rock1",
+			"flipX": true,
+			"filters": 2,
+			"color": "9995F9",
+			"angle": 0,
+			"name": "rock2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -4163,
+			"y": 221,
+			"scale": [
+				9.6,
+				4.8
+			],
+			"image": "future-sea/what",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "what",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"x": 233,
+			"y": 493,
+			"scale": [
+				3,
+				3
+			],
+			"image": "future-sea/car1",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "car",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -2880,
+			"y": -3976,
+			"scale": [
+				10000,
+				10000
+			],
+			"filters": 2,
+			"color": "0055FF",
+			"angle": 0,
+			"name": "sprite1",
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 0.2,
+			"type": "square"
+		}
+	],
+	"camera_girlfriend": [
+		50,
+		-250
+	],
+	"defaultZoom": 0.3,
+	"opponent": [
+		-220,
+		580
+	],
+	"directory": "",
+	"camera_speed": 0.4,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		-250
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [20, 115],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SingLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [-10, -35],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SingDown"
+		},
+		{
+			"loop": false,
+			"offsets": [5, 35],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SingUp"
+		},
+		{
+			"loop": false,
+			"offsets": [-30, 55],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SingRight"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/croco",
+	"position": [-300, 500],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [40, 160, 90],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

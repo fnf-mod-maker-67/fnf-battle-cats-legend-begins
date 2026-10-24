@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_mission.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="mission selected00070000" x="444" y="0" width="222" height="189" frameX="-6" frameY="-12" frameWidth="230" frameHeight="220"/>
+	<SubTexture name="mission selected00060000" x="444" y="189" width="222" height="189" frameX="-6" frameY="-18" frameWidth="230" frameHeight="220"/>
+	<SubTexture name="mission selected00050000" x="0" y="0" width="222" height="198" frameX="-6" frameY="0" frameWidth="230" frameHeight="220"/>
+	<SubTexture name="mission selected00040000" x="444" y="390" width="222" height="184" frameX="-6" frameY="-20" frameWidth="230" frameHeight="220"/>
+	<SubTexture name="mission selected00030000" x="0" y="198" width="223" height="192" frameX="-5" frameY="-18" frameWidth="230" frameHeight="220"/>
+	<SubTexture name="mission selected00020000" x="222" y="390" width="222" height="185" frameX="-6" frameY="-16" frameWidth="230" frameHeight="220"/>
+	<SubTexture name="mission selected00010000" x="222" y="0" width="222" height="195" frameX="-6" frameY="-25" frameWidth="230" frameHeight="220"/>
+	<SubTexture name="mission selected00000000" x="0" y="390" width="222" height="186" frameX="-6" frameY="-19" frameWidth="230" frameHeight="220"/>
+	<SubTexture name="mission idle00000000" x="666" y="0" width="211" height="193" frameX="-12" frameY="-9" frameWidth="230" frameHeight="220"/>
+</TextureAtlas>

@@ -1,0 +1,36 @@
+{
+    "songs": [
+        [
+			"in-the-future", "dad",
+			[
+				100, 149, 237
+			]
+		],
+		[
+			"ailen-rush", "gf", 
+			[
+				99, 159, 100
+			]
+		],
+		[
+			"future-moon", "bf", 
+			[
+				99, 159, 100
+			]
+		]
+    ],
+    "weekCharacters": [
+        "dad",
+        "bf",
+        "gf"
+    ],
+    "weekName": "Future Chapter",
+    "weekBackground": "stage",
+    "weekBefore": "2world2",
+    "storyName": "THE BATTLE CATS: FUTURE",
+    "startUnlocked": true,
+    "hiddenUntilUnlocked": false,
+    "hideStoryMode": false,
+    "hideFreeplay": false,
+    "difficulties": "chapter1,chapter2"
+}

@@ -1,0 +1,26 @@
+{
+	"storyName": "hahahah",
+	"difficulties": "pico"
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"boss-pico",
+			"gf",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Tutorial"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_charselect.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="charselect idle00000000" x="0" y="228" width="454" height="114" frameX="2" frameY="-45" frameWidth="450" frameHeight="200"/>
+	<SubTexture name="charselect selected00000000" x="0" y="114" width="454" height="114" frameX="2" frameY="-45" frameWidth="450" frameHeight="200"/>
+	<SubTexture name="charselect selected00010000" x="0" y="0" width="454" height="114" frameX="2" frameY="-45" frameWidth="450" frameHeight="200"/>
+</TextureAtlas>
