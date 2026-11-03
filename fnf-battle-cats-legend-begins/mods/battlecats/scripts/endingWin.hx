@@ -1,3 +1,4 @@
+import backend.Song;
 import flixel.text.FlxText.FlxTextBorderStyle;
 import flixel.text.FlxText.FlxTextFormat; // 추가: 색상 포맷 클래스
 import flixel.math.FlxMath;
@@ -17,7 +18,7 @@ function onRecalculateRating() { // 추가: 매 판정마다 최대 콤보 갱�
 
 function onCreate() {
 	setVar('rewards', []);
-	var hasHighscore:Bool = Highscore.getScore(PlayState.SONG.song, PlayState.storyDifficulty) > 0;
+	var hasHighscore:Bool = Highscore.getScore(Song.loadedSongName, PlayState.storyDifficulty) > 0;
 	setVar('isFirst', !hasHighscore);
 }
 

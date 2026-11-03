@@ -120,7 +120,9 @@ function onUpdatePost()
 		setProperty('boyfriend.angle', -30)
         setProperty('dad.y', -100)
         setProperty('boyfriend.y', -1000)
-    end
+    else
+		setProperty('boyfriend.angle', 0)
+	end
 
     -- 디버그용: newmoon일 때 1초마다 실제 dad.y 값 화면에 출력 (확인 끝나면 삭제)
     if currentBG == 'newmoon' then
