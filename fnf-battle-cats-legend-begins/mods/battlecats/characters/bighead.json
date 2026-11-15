@@ -1,38 +1,38 @@
 {
 	"animations": [
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "idle",
+			"fps": 24,
 			"name": "idle"
 		},
 		{
-			"offsets": [50, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [50, 0],
 			"anim": "singLEFT",
+			"fps": 24,
 			"name": "SingLeft"
 		},
 		{
-			"offsets": [0, -120],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, -120],
 			"anim": "singDOWN",
+			"fps": 24,
 			"name": "SingDown"
 		},
 		{
-			"offsets": [0, 60],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 60],
 			"anim": "singUP",
+			"fps": 24,
 			"name": "SingUp"
 		},
 		{
-			"offsets": [-180, 30],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-180, 30],
 			"anim": "singRIGHT",
+			"fps": 24,
 			"name": "SingRight"
 		}
 	],
@@ -40,7 +40,7 @@
 	"no_antialiasing": false,
 	"image": "characters/bighead",
 	"position": [0, 200],
-	"healthicon": "face",
+	"healthicon": "bald",
 	"flip_x": false,
 	"healthbar_colors": [150, 150, 150],
 	"camera_position": [0, 0],

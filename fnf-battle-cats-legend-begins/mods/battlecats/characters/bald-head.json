@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [20, 0],
-			"anim": "scared",
+			"loop": true,
 			"fps": 15,
-			"name": "scared",
-			"indices": []
+			"anim": "scared",
+			"indices": [],
+			"name": "scared"
 		},
 		{
-			"loop": false,
 			"offsets": [-100, 60],
-			"anim": "idle",
+			"loop": false,
 			"fps": 12,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [-190, 130],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "SingLeft",
-			"indices": []
+			"indices": [],
+			"name": "SingLeft"
 		},
 		{
-			"loop": false,
 			"offsets": [-130, 90],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "SingRight",
-			"indices": []
+			"indices": [],
+			"name": "SingRight"
 		},
 		{
-			"loop": false,
 			"offsets": [-250, -90],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "SingDown",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SingDown"
 		},
 		{
-			"loop": false,
 			"offsets": [-230, 70],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "SingUp",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "SingUp"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/bald-head",
 	"position": [-300, -100],
-	"healthicon": "face",
+	"healthicon": "bald",
 	"flip_x": false,
 	"healthbar_colors": [161, 161, 161],
 	"camera_position": [0, 0],

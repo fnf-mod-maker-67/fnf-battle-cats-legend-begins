@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [0, 0],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "SingLeft"
+			"fps": 24,
+			"name": "SingLeft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [0, -70],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "SingDown"
+			"fps": 24,
+			"name": "SingDown",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [0, 20],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "SingUp"
+			"fps": 24,
+			"name": "SingUp",
+			"indices": []
 		},
 		{
-			"offsets": [0, -20],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, -20],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "SingRight"
+			"fps": 24,
+			"name": "SingRight",
+			"indices": []
 		},
 		{
-			"offsets": [0, -20],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, -20],
 			"anim": "laugh",
-			"indices": [],
-			"name": "Laugh"
+			"fps": 24,
+			"name": "Laugh",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/sheep",
 	"position": [200, 450],
-	"healthicon": null,
+	"healthicon": "chap3duo",
 	"flip_x": false,
 	"healthbar_colors": [161, 161, 161],
 	"camera_position": [0, 0],

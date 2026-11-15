@@ -1,51 +1,51 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [-79, -449],
-			"fps": 12,
+			"loop": false,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 12,
+			"name": "idle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [-40, -420],
-			"fps": 12,
+			"loop": false,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "SingLeft"
+			"fps": 12,
+			"name": "SingLeft",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [-30, -450],
-			"fps": 12,
+			"loop": false,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "SingDown"
+			"fps": 12,
+			"name": "SingDown",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [-60, -390],
-			"fps": 12,
+			"loop": false,
 			"anim": "singUP",
-			"indices": [],
-			"name": "SingUp"
+			"fps": 12,
+			"name": "SingUp",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [-80, -450],
-			"fps": 12,
+			"loop": false,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "SingRight"
+			"fps": 12,
+			"name": "SingRight",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/doge",
 	"position": [0, 0],
-	"healthicon": "face",
+	"healthicon": "doge",
 	"flip_x": false,
 	"healthbar_colors": [161, 161, 161],
 	"camera_position": [0, 0],

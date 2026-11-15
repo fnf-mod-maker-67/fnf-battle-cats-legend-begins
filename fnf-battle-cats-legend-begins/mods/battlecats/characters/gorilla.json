@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Singleft"
+			"fps": 24,
+			"name": "Singleft",
+			"indices": []
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Singdown"
+			"fps": 24,
+			"name": "Singdown",
+			"indices": []
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "singUP",
-			"indices": [],
-			"name": "Singup"
+			"fps": 24,
+			"name": "Singup",
+			"indices": []
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Singright"
+			"fps": 24,
+			"name": "Singright",
+			"indices": []
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "uga",
-			"indices": [],
-			"name": "uga"
+			"fps": 24,
+			"name": "uga",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/gorilla",
 	"position": [300, 300],
-	"healthicon": "face",
+	"healthicon": "chap3duo",
 	"flip_x": false,
 	"healthbar_colors": [161, 161, 161],
 	"camera_position": [0, 0],

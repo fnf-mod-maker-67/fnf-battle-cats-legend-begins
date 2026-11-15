@@ -1,51 +1,51 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [-101, -459],
-			"loop": false,
+			"fps": 12,
 			"anim": "idle",
-			"fps": 12,
-			"name": "idle",
-			"indices": []
+			"indices": [],
+			"name": "idle"
 		},
 		{
+			"loop": false,
 			"offsets": [0, -270],
-			"loop": false,
+			"fps": 12,
 			"anim": "singLEFT",
-			"fps": 12,
-			"name": "SingLeft",
-			"indices": []
+			"indices": [],
+			"name": "SingLeft"
 		},
 		{
+			"loop": false,
 			"offsets": [0, -437],
-			"loop": false,
+			"fps": 12,
 			"anim": "singDOWN",
-			"fps": 12,
-			"name": "SingDown",
-			"indices": []
+			"indices": [],
+			"name": "SingDown"
 		},
 		{
+			"loop": false,
 			"offsets": [0, -308],
-			"loop": false,
-			"anim": "singUP",
 			"fps": 12,
-			"name": "SingUp",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "SingUp"
 		},
 		{
-			"offsets": [0, -178],
 			"loop": false,
-			"anim": "singRIGHT",
+			"offsets": [0, -178],
 			"fps": 12,
-			"name": "SingRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SingRight"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/those_guys",
 	"position": [0, 0],
-	"healthicon": "double",
+	"healthicon": "chap2duo",
 	"flip_x": false,
 	"healthbar_colors": [255, 255, 255],
 	"camera_position": [0, 100],

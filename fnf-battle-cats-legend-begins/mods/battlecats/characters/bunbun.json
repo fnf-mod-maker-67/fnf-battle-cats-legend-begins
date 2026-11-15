@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [-480, -250],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "SingLeft"
+			"fps": 24,
+			"name": "SingLeft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [-310, -480],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "SingDown"
+			"fps": 24,
+			"name": "SingDown",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [-260, -260],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "SingUp"
+			"fps": 24,
+			"name": "SingUp",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [-190, -320],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "SingRight"
-		},
-		{
-			"offsets": [-310, -400],
-			"loop": false,
 			"fps": 24,
-			"anim": "tell",
-			"indices": [],
-			"name": "tell"
+			"name": "SingRight",
+			"indices": []
 		},
 		{
-			"offsets": [-380, -240],
-			"indices": [],
-			"fps": 12,
-			"anim": "idle",
+			"loop": false,
+			"offsets": [-310, -400],
+			"anim": "tell",
+			"fps": 24,
+			"name": "tell",
+			"indices": []
+		},
+		{
 			"loop": true,
-			"name": "idle"
+			"offsets": [-380, -240],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/bunbun",
 	"position": [-500, -700],
-	"healthicon": "face",
+	"healthicon": "bunbun",
 	"flip_x": false,
 	"healthbar_colors": [150, 150, 150],
 	"camera_position": [0, 0],

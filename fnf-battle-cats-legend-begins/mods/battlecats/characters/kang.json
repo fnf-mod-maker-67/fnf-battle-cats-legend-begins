@@ -1,51 +1,51 @@
 {
 	"animations": [
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "SingLeft"
+			"fps": 24,
+			"name": "SingLeft",
+			"indices": []
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "SingDown"
+			"fps": 24,
+			"name": "SingDown",
+			"indices": []
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "singUP",
-			"indices": [],
-			"name": "SingUp"
+			"fps": 24,
+			"name": "SingUp",
+			"indices": []
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "SingRight"
+			"fps": 24,
+			"name": "SingRight",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/kang",
 	"position": [-250, 200],
-	"healthicon": "face",
+	"healthicon": "kang",
 	"flip_x": false,
 	"healthbar_colors": [161, 161, 161],
 	"camera_position": [0, 0],

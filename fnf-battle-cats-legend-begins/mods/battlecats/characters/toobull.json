@@ -1,51 +1,51 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [0, -70],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [40, 50],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "SingLeft"
+			"fps": 24,
+			"name": "SingLeft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [-10, -180],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "SingDown"
+			"fps": 24,
+			"name": "SingDown",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [0, 90],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "SingUp"
+			"fps": 24,
+			"name": "SingUp",
+			"indices": []
 		},
 		{
-			"offsets": [-70, -80],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-70, -80],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "SingRight"
+			"fps": 24,
+			"name": "SingRight",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/toobull",
 	"position": [-100, 325],
-	"healthicon": "face",
+	"healthicon": "toobull",
 	"flip_x": false,
 	"healthbar_colors": [255, 69, 0],
 	"camera_position": [0, 0],

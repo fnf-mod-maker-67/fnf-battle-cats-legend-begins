@@ -1,52 +1,52 @@
 {
 	"animations": [
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "idle",
+			"fps": 24,
 			"name": "idle"
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "danceLeft",
+			"fps": 24,
 			"name": "danceLeft"
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "danceRight",
+			"fps": 24,
 			"name": "danceRight"
 		},
 		{
-			"offsets": [45, -5],
 			"loop": false,
-			"fps": 24,
+			"offsets": [45, -5],
 			"anim": "singLEFT",
+			"fps": 24,
 			"name": "SingLeft"
 		},
 		{
-			"offsets": [-10, -70],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-10, -70],
 			"anim": "singDOWN",
+			"fps": 24,
 			"name": "SingDown"
 		},
 		{
-			"offsets": [-20, 170],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-20, 170],
 			"anim": "singUP",
+			"fps": 24,
 			"name": "SingUp"
 		},
 		{
-			"offsets": [-95, 10],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-95, 10],
 			"anim": "singRIGHT",
+			"fps": 24,
 			"name": "SingRight"
 		}
 	],
@@ -54,7 +54,7 @@
 	"no_antialiasing": false,
 	"image": "characters/fly",
 	"position": [0, 0],
-	"healthicon": "face",
+	"healthicon": "fly",
 	"flip_x": false,
 	"healthbar_colors": [100, 220, 100],
 	"camera_position": [0, 0],

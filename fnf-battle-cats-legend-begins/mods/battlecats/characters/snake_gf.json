@@ -1,51 +1,51 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [-90, -562],
-			"loop": false,
+			"fps": 16,
 			"anim": "idle",
-			"fps": 16,
-			"name": "idle",
-			"indices": []
+			"indices": [],
+			"name": "idle"
 		},
 		{
+			"loop": false,
 			"offsets": [-60, -609],
-			"loop": false,
+			"fps": 16,
 			"anim": "singLEFT",
-			"fps": 16,
-			"name": "SingLeft",
-			"indices": []
+			"indices": [],
+			"name": "SingLeft"
 		},
 		{
+			"loop": false,
 			"offsets": [-20, -629],
-			"loop": false,
+			"fps": 16,
 			"anim": "singDOWN",
-			"fps": 16,
-			"name": "SingDown",
-			"indices": []
+			"indices": [],
+			"name": "SingDown"
 		},
 		{
+			"loop": false,
 			"offsets": [-97, -533],
-			"loop": false,
-			"anim": "singUP",
 			"fps": 16,
-			"name": "SingUp",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "SingUp"
 		},
 		{
-			"offsets": [-73, -600],
 			"loop": false,
-			"anim": "singRIGHT",
+			"offsets": [-73, -600],
 			"fps": 16,
-			"name": "SingRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SingRight"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/snake",
 	"position": [-200, -50],
-	"healthicon": "double",
+	"healthicon": "chap2duo",
 	"flip_x": false,
 	"healthbar_colors": [161, 161, 161],
 	"camera_position": [0, 360],

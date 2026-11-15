@@ -1,55 +1,55 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [-40, -469],
-			"loop": false,
+			"fps": 12,
 			"anim": "idle",
-			"fps": 12,
-			"name": "idle",
-			"indices": []
+			"indices": [],
+			"name": "idle"
 		},
 		{
+			"loop": false,
 			"offsets": [-40, -420],
-			"loop": false,
+			"fps": 12,
 			"anim": "singLEFT",
-			"fps": 12,
-			"name": "SingLeft",
-			"indices": []
+			"indices": [],
+			"name": "SingLeft"
 		},
 		{
+			"loop": false,
 			"offsets": [-30, -450],
-			"loop": false,
+			"fps": 12,
 			"anim": "singDOWN",
-			"fps": 12,
-			"name": "SingDown",
-			"indices": []
+			"indices": [],
+			"name": "SingDown"
 		},
 		{
+			"loop": false,
 			"offsets": [-60, -460],
-			"loop": false,
-			"anim": "singUP",
 			"fps": 12,
-			"name": "SingUp",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "SingUp"
 		},
 		{
-			"offsets": [-80, -450],
 			"loop": false,
-			"anim": "singRIGHT",
+			"offsets": [-80, -450],
 			"fps": 12,
-			"name": "SingRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SingRight"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/nyanko",
-	"position": [600, 0],
+	"position": [400, 70],
 	"healthicon": "nyanko",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [161, 161, 161],
 	"camera_position": [0, 0],
 	"sing_duration": 4,
 	"scale": 2.5,
-	"_editor_isPlayer": false
+	"_editor_isPlayer": true
 }
