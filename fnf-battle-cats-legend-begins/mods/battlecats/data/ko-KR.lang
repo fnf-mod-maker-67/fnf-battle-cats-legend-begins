@@ -9,6 +9,33 @@ difficulty_easy: "쉬움"
 difficulty_normal: "중간"
 difficulty_hard: "어려움"
 
+gamatoto_easy:"쉬움"
+gamatoto_normal:"중간"
+gamatoto_hard:"어려움"
+
+gamatoto_locked: "아직 잠겨있음"
+
+dc_mission: "냥코미션 메뉴"
+dc_charselect: "캐릭터 선택 중"
+dc_credits: "크레딧 보는 중"
+dc_freeplay: "프리플레이 메뉴"
+dc_gamatoto: "가마토토에서 도전 중"
+dc_loading: "로딩 중.."
+dc_mainmenu: "메인 메뉴"
+dc_title: "타이틀 화면"
+
+region_plains: "평화 초원"
+region_kh_kingdom: "쿵후 왕국"
+region_savadesert: "사바의 사막"
+
+intro_name: "프나펑 냥코대전쟁:전설의 시작"
+intro_whomade: "냥코 유튜버 튜브냥이 제작"
+intro_this: "이"
+intro_modis: "모드는"
+intro_korean: "국산이고"
+intro_bc: "냥코대전쟁"
+intro_lb: ": 전설의 시작"
+
 // Achievements
 achievement_: ""
 description_: ""
@@ -378,7 +405,11 @@ no_energy:"통솔력이 없어서 게임을 할 수 없어요!"
 blocked:"메뉴가 아직 잠금해제되지 않았어요!\n\n게임을 플레이하면 메뉴가 열릴거에요!"
 
 data/balloonText:"data/ko-KR/balloonText"
+data/introText:"data/ko-KR/introText"
 
 endingwin_miss:"미스: "
 endingwin_rating:"정확도: "
 endingwin_combo:"최대 콤보: "
+miss:"\n미스: "
+accuracy:"\n정확도: "
+highscore:"내 하이스코어: "
