@@ -1,5 +1,5 @@
 local useEditor = false
-
+-- I edit it to ai(dad2 fix and just more fixes)
 local sliders = 
 {
     --name     val  x   y   wid  hei  min  max  dragging  color
@@ -25,7 +25,6 @@ local sliders =
 function onCreatePost()
     initLuaShader('RTXLighting')
     
-    -- 기본 캐릭터 및 배경 태그 리스트
     local allTargets = {'boyfriend', 'dad', 'gf', 'bgTag_noul', 'bgTag_night', 'bgTag_gris', 'bgTag_desert', 'bgTag_moon'}
 
     for _, tag in ipairs(allTargets) do
@@ -142,22 +141,27 @@ end
 function remapToRange(value, start1, stop1, start2, stop2)
     return start2 + (value - start1) * ((stop2 - start2) / (stop1 - start1))
 end
+local seen = false
 
 function onUpdate(elapsed)
+    if not dad2Done and getProperty('dad2') ~= nil then
+        setSpriteShader('dad2', 'RTXLighting')
+        updateShader()
+        dad2Done = true
+    end
     if useEditor then 
         updateEditor(elapsed)
     end
     
-    -- [핵심] 1절/2절 언제든 곡 중간에 dad2가 생성되는 즉시 실시간 감지하여 쉐이더를 부착하고 수치를 초기화합니다.
-    runHaxeCode([[
-        if (game.dad2 != null && game.dad2.shader == null) {
-            var targetShader = game.runtimeShaders.get('RTXLighting');
-            if (targetShader != null) {
-                game.dad2.shader = targetShader;
-                game.callOnLuas('updateShader', []); // 생성 프레임에 즉시 쉐이더 수치 동기화
-            }
-        }
-    ]])
+	runHaxeCode([==[
+		if (game.dad2 != null && game.dad2.shader == null) {
+			var arr = game.runtimeShaders.get('RTXLighting');
+			if (arr != null) {
+				game.dad2.shader = new shaders.ErrorHandledShader.ErrorHandledRuntimeShader('RTXLighting', arr[0], arr[1]);
+				game.callOnLuas('updateShader', []);
+			}
+		}
+	]==])
 end
 
 function updateEditor(elapsed)
@@ -231,7 +235,6 @@ end
 function updateShader()
     local allTargets = {'boyfriend', 'dad', 'gf', 'bgTag_noul', 'bgTag_night', 'bgTag_gris', 'bgTag_desert', 'bgTag_moon'}
     
-    -- 1. 루아가 정상 인식하는 원본 타겟 수치 적용
     for _, tag in ipairs(allTargets) do
         if getProperty(tag .. '.exists') then
             if currentBg == 'white' and (tag == 'boyfriend' or tag == 'dad' or tag == 'gf') then
@@ -249,17 +252,15 @@ function updateShader()
             end
         end
     end
-
-    -- 2. [해결 장치] 루아 제어 범위를 벗어난 dad2 오브젝트에 Haxe를 이용해 직접 쉐이더 Uniform 값을 강제 주입
+	
     runHaxeCode([[
-        var targetShader = game.runtimeShaders.get('RTXLighting');
-        if (targetShader != null && game.dad2 != null) {
-            // 애니메이션 변환 등으로 쉐이더가 유실되는 것 방지
+		var targetShader = null;
+		if (game.dad2 != null) targetShader = game.dad2.shader;
+		if (targetShader != null) {
             if (game.dad2.shader != targetShader) {
                 game.dad2.shader = targetShader;
             }
             
-            // 화이트 배경 예외 처리 분기 포함하여 수치 주입
             if (]]..(currentBg == 'white' and "true" or "false")..[[) {
                 targetShader.setFloatArray('overlayColor', [0.0, 0.0, 0.0, 0.0]);
                 targetShader.setFloatArray('satinColor', [0.0, 0.0, 0.0, 0.0]);
