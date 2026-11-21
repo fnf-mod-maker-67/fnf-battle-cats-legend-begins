@@ -47,6 +47,21 @@ function onCustomSubstateCreate(name:String) {
 	misses = songMisses;
 	rating = FlxMath.roundDecimal(ratingPercent * 100, 2);
 	
+	var list = PlayState.storyPlaylist;
+	var hasNext = PlayState.isStoryMode && list.length > 1;
+
+	if (hasNext) {
+		var rest = list.slice(1);
+		FlxG.save.data.continueSong = rest.join('|');
+		FlxG.save.data.continueDiff = PlayState.storyDifficulty;
+		FlxG.save.data.continueWeek = PlayState.storyWeek;
+	} else {
+		FlxG.save.data.continueSong = null;
+		FlxG.save.data.continueDiff = null;
+		FlxG.save.data.continueWeek = null;
+	}
+	FlxG.save.flush();
+	
 	camGame.stopFX();
 	camHUD.stopFX();
 	camOther.stopFX();

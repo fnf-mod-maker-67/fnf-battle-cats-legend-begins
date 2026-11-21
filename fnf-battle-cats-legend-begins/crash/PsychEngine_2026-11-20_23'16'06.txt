@@ -1,0 +1,19 @@
+lime/utils/Log.hx (line 37)
+lime/utils/Assets.hx (line 138)
+lime/utils/Assets.hx (line 244)
+backend/Song.hx (line 153)
+backend/Song.hx (line 127)
+states/TitleState.hx (line 360)
+states/TitleState.hx (line 127)
+substates/ErrorSubstate.hx (line 45)
+flixel/FlxState.hx (line 239)
+flixel/FlxState.hx (line 248)
+flixel/FlxGame.hx (line 749)
+flixel/FlxGame.hx (line 679)
+flixel/FlxGame.hx (line 552)
+openfl/events/EventDispatcher.hx (line 426)
+openfl/display/DisplayObject.hx (line 1398)
+
+Uncaught Error: [lime.utils.Assets] ERROR: There is no TEXT asset with an ID of "assets/shared/data/double-attack/double-attack.json"
+
+> Crash Handler written by: sqirra-rng

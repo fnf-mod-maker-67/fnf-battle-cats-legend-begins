@@ -413,3 +413,5 @@ endingwin_combo:"최대 콤보: "
 miss:"\n미스: "
 accuracy:"\n정확도: "
 highscore:"내 하이스코어: "
+
+resume_ask:"이전에 하다가 비정상적으로 멈춘 기록이 있습니다!\n이어하시겠습니까?\nEnter로 이어하기, Esc로 버리기"
